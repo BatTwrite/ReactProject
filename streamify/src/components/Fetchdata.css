@@ -1,0 +1,13 @@
+.poster{
+    height: 500px;
+}
+.main{
+height: 500px;
+margin:50px;
+}
+.main1{
+    display: flex;
+     gap: 1rem;
+     flex-wrap:wrap;
+     padding: 8rem 2rem 2rem 7rem;
+}
